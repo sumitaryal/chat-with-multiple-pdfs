@@ -1,0 +1,11 @@
+huggingface-hub==0.22.2
+langchain==0.1.16
+langchain-community==0.0.32
+python-dotenv==1.0.0
+streamlit==1.33.0
+faiss-cpu==1.7.4
+InstructorEmbedding==1.0.1
+sentence-transformers==2.2.2
+PyPDF2==3.0.1
+altair==4
+tiktoken==0.4.0
